@@ -1,0 +1,26 @@
+// PRODUCTION VALUES
+// const ProductIDs = {
+//   EXTENSIONS: {
+//     ORGANIZATIONS: 'price_1Kgw4MJWaHOq7u7dJH2sv6UH',
+//     ORGANIZATIONS_ANNUAL: 'price_1LgVabJWaHOq7u7dI2cX8OYX',
+//     ZOOM: 'price_1KnqmZJWaHOq7u7d0HR5kU3M',
+//     ADVERTISEMENT: 'price_1KnqSXJWaHOq7u7dEZ2etaGo',
+//     WHITE_BLACK_LIST: 'price_1L1W1JJWaHOq7u7d7wNZxVf2',
+//     COLLECTIVE_AVAILABILITY: 'price_1KnqqiJWaHOq7u7dpha3vlD7',
+//   },
+// };
+
+// LOCAL TESTING VALUES
+const ProductIDs = {
+  EXTENSIONS: {
+    ORGANIZATIONS: 'price_1KgxPeJWaHOq7u7dbTZie46t',
+    ORGANIZATIONS_ANNUAL: 'price_1LgVabJWaHOq7u7dI2cX8OYX',
+    ZOOM: 'price_1KnqIXJWaHOq7u7dd2L7KoJu',
+    ADVERTISEMENT: 'price_1KnP7jJWaHOq7u7dz2vasYaX',
+    WHITE_BLACK_LIST: 'price_1L0AgSJWaHOq7u7dcwjWfpb5',
+    COLLECTIVE_AVAILABILITY: 'price_1KmLWZJWaHOq7u7dqcC4SYUd',
+    SMS_REMINDER: 'price_1KnPB9JWaHOq7u7dcR2YS7R7',
+  },
+};
+
+export default ProductIDs;
